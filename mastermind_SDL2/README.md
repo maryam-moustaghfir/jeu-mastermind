@@ -1,10 +1,12 @@
-# ``Mastermind - SDL2``
-- Mastermind made in SDL2
+Mastermind - SDL2
 
-- ``Rules`` :
-You must guess in less than 10 tries a color combination (among 6 possible colors - no color repetitions allowed).
+Description : 
 
-- ``Assistance`` :
-To the right of each combination, you will have the number of well-placed colors (in green) and the number of badly placed colors (in red).
+Vous devez deviner en moins de 10 tentatives une combinaison de couleurs (parmi 6 couleurs possibles - aucune répétition de couleurs autorisée).
 
-![alt text](https://zupimages.net/up/22/44/eopq.png)
+Aide :
+À droite de chaque combinaison, vous aurez le nombre de couleurs bien placées (en vert) et le nombre de couleurs mal placées (en rouge).
+
+
+<img width="359" alt="youwon" src="https://github.com/maryam-moustaghfir/jeu-mastermind/assets/139572680/9e1a1885-0da0-469e-bb41-0e6b0f7175c7">
+<img width="353" alt="youlose" src="https://github.com/maryam-moustaghfir/jeu-mastermind/assets/139572680/a530f317-efe1-4711-a399-e97e5eb7b344">
